@@ -1,4 +1,4 @@
-# Summary of Project — Auto Insurance Predictions
+# Summary of Project: Auto Insurance Predictions
 
 In this project, we analyze customer data for over 10,000 individuals with regards to auto insurance, aiming to predict whether or not a customer would generate a claim (i.e., be involved in an accident necessitating a payout) in a given year. The dataset from which we will build our predictive tools involves over 20 input variables, ranging from demographic to financial to historical — many customers have made claims in previous years. Some have made many claims.
 
